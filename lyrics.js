@@ -28,6 +28,5 @@ function setTiming(lyrics) {
 }
 
 console.log('Ed Sheeran - Photograph');
-console.log(secondsToMS("17:70"));
 
 setTiming(lyrics);
